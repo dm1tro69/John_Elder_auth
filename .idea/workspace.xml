@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3856dbd-0235-47c9-bd10-1c55166d64d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authenticate/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authenticate/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authenticate/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authenticate/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authenticate/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authenticate/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authenticate/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authenticate/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/authenticate/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/authenticate/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/authenticate/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authenticate/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/authenticate/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authenticate/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/authenticate/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/authenticate/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/authenticate/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +82,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577293702379</updated>
-      <workItem from="1577293727899" duration="3635000" />
+      <workItem from="1577293727899" duration="4381000" />
+      <workItem from="1577358854457" duration="6331000" />
     </task>
     <servers />
   </component>
@@ -103,7 +95,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
